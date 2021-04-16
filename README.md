@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Praveen!</h3>
 
-<h2>___ Code. Coffee.___que rico !</h2>
+<h2>___ 💻Code. ☕Coffee.___que rico !</h2>
 <br>
 <br>
 
