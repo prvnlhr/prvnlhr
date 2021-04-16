@@ -29,6 +29,7 @@ A **FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 👨🏽‍💻 I’m Mechanical Engineering graduate from SSCE, Udaipur
 - 🌱 I’m currently exploring Web Development with a big interest in React and Data Structures and Algorithms. 
 - 🤔 My interest lies in web development.
+- 😎 Obsessed with the idea of making websites look beautiful.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [praveenlohar04@gmail.com](mailto:praveenlohar04@gmail.com).
 
