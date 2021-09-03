@@ -64,11 +64,11 @@ A **FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
  <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+<img alt="prvnlhr" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
   
  <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
+<img alt="prvnlhr" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
   
    <a href="https://www.eclipse.org/ide/">
@@ -87,6 +87,4 @@ A **FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 ##
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prvnlhr&show_icons=true&hide_border=true&count_private=true"/>
-<!--
-- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
--->
+
