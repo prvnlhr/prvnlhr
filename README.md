@@ -85,6 +85,5 @@ A **FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 </p>
 
-##
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prvnlhr&show_icons=true&hide_border=true&count_private=true"/>
+<img align="center" alt="prvn's's Github Stats" src="https://github-readme-stats.prvnlhr.vercel.app/api?username=prvnlhr&show_icons=true&hide_border=true&count_private=true"/>
 
