@@ -85,5 +85,6 @@ A **FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 </p>
 
-<img align="center" alt="prvn's's Github Stats" src="https://github-readme-stats.prvnlhr.vercel.app/api?username=prvnlhr&show_icons=true&hide_border=true&count_private=true"/>
+[![Praveen's Github stats](https://github-readme-stats.vercel.app/api?username=prvnlhr)](https://github.com/prvnlhr/github-readme-stats)
+
 
