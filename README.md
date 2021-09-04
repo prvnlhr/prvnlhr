@@ -1,90 +1,87 @@
-<h3 title="hehehe"> Hey 👋, I'm Praveen!</h3>
 
-<h2>___ 💻Code. ☕Coffee.___que rico !</h2>
+![githubProfileBanner](https://user-images.githubusercontent.com/70936225/132098133-146fcb2f-ff71-48bb-8c86-51490fc438bf.gif)
+
+<h2 align="center" title="hehehe"> Hey 👋, I'm Praveen!</h2>
+
+
+
+**<p align="center">CODER &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;DEVELOPER&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;LEARNER</p>**
+
+
+**<p align="center">A FULL STACK WEB DEVELOPMENT Enthusiast 🚀.</p>**
+
+
+
+
 <br>
 <br>
 
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BbEWfxNHHS5qtFE%2B9qSlwvg%3D%3D">
-  <img align="left" alt="Praveen's LinkedIn" width="24px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />
-</a>
-<a href="https://www.instagram.com/iamlohar/">
-  <img align="left" alt="Praveen's Instagram" width="24px" src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" />
-</a>
+**About Me :**
 
-
-
-
-
-<br />
-<br />
-
-A **FULL STACK WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m Mechanical Engineering graduate from SSCE, Udaipur
-- 🌱 I’m currently exploring Web Development with a big interest in React and Data Structures and Algorithms. 
-- 🤔 My interest lies in web development.
+- 👨🏽‍💻 I’m Mechanical Engineering graduate.
+- :mag: I’m currently exploring Web Development with a big interest in React and Data Structures and Algorithms. 
 - 😎 Obsessed with the idea of making websites look beautiful.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [praveenlohar04@gmail.com](mailto:praveenlohar04@gmail.com).
+- :email: Email me at [praveenlohar04@gmail.com](mailto:praveenlohar04@gmail.com).
 
 
+<br>
 
 
-### **Languages and Technologies:**
+### **Tools Used :**
 
 <p float="left">
- <a href="https://www.java.com/">
-<img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
+  
+<img  src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40"  /> | <img alt="pycharm" src="https://cdn.worldvectorlogo.com/logos/pycharmedu-icon.svg" width="40"/> | <img alt="vscode" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40"/> | <img alt="pycharm" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/> | <img alt="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/> |
+--- | --- | --- | --- | --- | ---
+</p>
 
- <a href="https://www.python.org/">
-<img alt="python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="css" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="JS" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
- <a href="https://reactjs.org/">
-<img alt="react" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
- <a href="https://nodejs.org/en/">
-<img alt="nodejs" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
+<br>
 
 
- <a href="https://git-scm.com/">
-<img alt="prvnlhr" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
+### **Languages :**
+
+<p float="left">
   
- <a href="https://code.visualstudio.com/">
-<img alt="prvnlhr" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
-  
-   <a href="https://www.eclipse.org/ide/">
-<img alt="eclipse" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNsTpdr8OwN8DJYjKT4mktsj1tg4Oqi-GIsHwh64k8dTTuPMekceIjiJLkV3zFVx2Kck&usqp=CAU" width="40">
-  </a>
-   
-   <a href="https://www.eclipse.org/ide/">
-<img alt="eclipse" src="https://banner2.cleanpng.com/20180913/uto/kisspng-intellij-idea-jetbrains-integrated-development-env-5b9a70df9dd6c3.3468850615368480956465.jpg" width="60">
-  </a>
-  
-   <a href="https://code.visualstudio.com/">
-<img alt="vscode" src="https://devstickers.com/assets/img/pro/h8ci.png" width="40">
-  </a>
+<img  src="https://cdn.worldvectorlogo.com/logos/java.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40"  /> | <img alt="pycharm" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="40"  />
+--- | --- | --- | --- | ---
+</p>
+<br>
+<br>
+
+### **Technologies and Stack :**
+
+<p float="left">
+
+ <img  src="https://cdn.worldvectorlogo.com/logos/react-2.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40"  /> | <img alt="pycharm" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="90"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40"  /> |  <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" width="40"  />
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 </p>
 
-[![Praveen's Github stats](https://github-readme-stats.vercel.app/api?username=prvnlhr)](https://github.com/prvnlhr/github-readme-stats)
+<h2></h2>
+
+![Praveen's Github stats](https://github-readme-stats.vercel.app/api?username=prvnlhr&show_icons=true&theme=cobalt)
+
+<h2></h2>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prvnlhr&theme=tokyonight)
+
+<br>
+<br>
+
+**<h2 align="center">Want to Reach Me</h2>**
+
+<p align="center">
+<a  href="https://www.linkedin.com/public-profile/settings?    trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BbEWfxNHHS5qtFE%2B9qSlwvg%3D%3D">
+ <img  alt="Praveen's LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a  href="https://www.instagram.com/iamlohar/">
+  <img  alt="Praveen's Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a  href="https://twitter.com/iampraveenlohar">
+  <img  alt="Praveen's Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
+</a>
+</p>
 
 
