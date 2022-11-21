@@ -23,7 +23,7 @@
 - :mag: I’m currently exploring Web Development with a big interest in React and Data Structures and Algorithms. 
 - 😎 Obsessed with the idea of making websites look beautiful.
 - 💬 Ask me about anything, I love to answer!
-- :email: Email me at [praveenlohar04@gmail.com](mailto:praveenlohar04@gmail.com).
+- :email: Email me at [praveenlohar.in@gmail.com](mailto:praveenlohar.in@gmail.com).
 
 
 <br>
