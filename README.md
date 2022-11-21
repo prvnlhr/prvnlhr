@@ -22,7 +22,7 @@
 - 👨🏽‍💻 I’m Mechanical Engineering graduate.
 - :mag: I’m currently exploring Web Development with a big interest in React and Data Structures and Algorithms. 
 - 😎 Obsessed with the idea of making websites look beautiful.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about anything, I'd love to answer!
 - :email: Email me at [praveenlohar.in@gmail.com](mailto:praveenlohar.in@gmail.com).
 
 
