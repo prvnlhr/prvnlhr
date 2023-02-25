@@ -77,10 +77,10 @@
  <img  alt="Praveen's LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="https://www.instagram.com/iamlohar/">
-  <img  alt="Praveen's Instagram" width="24px" src="[https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg](https://www.svgrepo.com/show/111199/instagram.svg)" />
+  <img  alt="Praveen's Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="https://twitter.com/iampraveenlohar">
-  <img  alt="Praveen's Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
+  <img  alt="Praveen's Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
 </a>
 </p>
 
