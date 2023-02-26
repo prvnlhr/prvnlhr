@@ -1,5 +1,4 @@
-
-![githubProfileBanner](https://user-images.githubusercontent.com/70936225/132098133-146fcb2f-ff71-48bb-8c86-51490fc438bf.gif)
+![Slide 16_9 - 2](https://user-images.githubusercontent.com/70936225/221422511-2e275948-7d8a-4254-9ebc-59a2e22419d3.png)
 
 <h2 align="center" title="hehehe"> Hey 👋, I'm Praveen!</h2>
 
