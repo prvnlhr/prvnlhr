@@ -1,3 +1,4 @@
+![Slide 4_3 - 2](https://user-images.githubusercontent.com/70936225/227204000-e042bbd3-afaa-4ff2-912d-e5ea0b338c07.png)
 
 
 
