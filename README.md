@@ -1,4 +1,5 @@
-![Slide 16_9 - 2](https://user-images.githubusercontent.com/70936225/221422511-2e275948-7d8a-4254-9ebc-59a2e22419d3.png)
+
+
 
 <h2 align="center" title="hehehe"> Hey 👋, I'm Praveen!</h2>
 
