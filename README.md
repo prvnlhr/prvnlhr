@@ -1,8 +1,9 @@
 <!-- ![Slide 4_3 - 2](https://user-images.githubusercontent.com/70936225/227204000-e042bbd3-afaa-4ff2-912d-e5ea0b338c07.png) -->
 
-![Slide 4_3 - 2](https://github.com/prvnlhr/prvnlhr/assets/70936225/611653d9-11f0-4c14-9f3a-635693f77b8d)
 
 
+
+![Frame 3](https://github.com/prvnlhr/prvnlhr/assets/70936225/66372482-10bd-4111-8d6e-fcf046b6d1e9)
 
 <h2 align="center" title="hehehe"> Hey 👋, I'm Praveen!</h2>
 
