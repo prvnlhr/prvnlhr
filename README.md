@@ -48,8 +48,8 @@
 
 <p float="left">
   
-<img  src="https://cdn.worldvectorlogo.com/logos/c.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40"  /> | <img alt="pycharm" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"  /> | <img  src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  width="40" />
---- | --- | --- | --- | --- | ---
+<img  src="https://cdn.worldvectorlogo.com/logos/c.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40"  /> | <img alt="pycharm" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"  /> | <img  src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"  width="40" />
+--- |--- | --- | --- | --- | --- | ---
 </p>
 <br>
 <br>
