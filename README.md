@@ -58,8 +58,11 @@
 
 <p float="left">
 
- <img  src="https://cdn.worldvectorlogo.com/logos/react-2.svg"  width="40" /> | <img  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40"  /> | <img alt="pycharm" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="90"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40"  /> | <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40"  /> |  <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" width="40"  />
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+
+
+| <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" alt="Next.js" /> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" alt="React" /> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" alt="Node.js" /> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="90" alt="Express.js" /> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" alt="MongoDB" /> | <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40" alt="Redux" /> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="40" alt="Heroku" /> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40" alt="Netlify" /> | <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40" alt="Firebase" /> | <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" alt="JWT" /> | <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" width="40" alt="SendGrid" /> |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
 
 </p>
 
